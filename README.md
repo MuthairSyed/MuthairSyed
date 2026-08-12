@@ -9,53 +9,44 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=600&color=00FF9C&center=true&vCenter=true&width=800&lines=%5B+BOOTING+SECURITY+ENVIRONMENT+%5D;%5B+LOADING+DEVSECOPS+MODULES...+%5D;%5B+THREAT+MONITORING%3A+ACTIVE+%5D;%5B+AUTOMATION%3A+ENABLED+%5D;%5B+SYSTEM+READY_+%5D"/>
 </p>
-
 <p align="center">
-  <a href="https://github.com/MuthairSyed">
-    <img src="https://img.shields.io/github/followers/MuthairSyed?label=Followers&style=for-the-badge&color=7FFFD4&labelColor=0D1117"/>
-  </a>
-  <a href="https://github.com/MuthairSyed?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-9B5CFF?style=for-the-badge&labelColor=0D1117"/>
-  </a>
-  <a href="mailto:muthairsyed98@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-00E5FF?style=for-the-badge&labelColor=0D1117"/>
-  </a>
-</p>
 
----
+ <p align="center">
+
+  <a href="https://github.com/MuthairSyed">
+    <img src="https://img.shields.io/github/followers/MuthairSyed?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=FFFFFF&logo=github&logoColor=FFFFFF"/>
+  </a>
+
+  <a href="https://github.com/MuthairSyed?tab=repositories">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMuthairSyed%2FMuthairSyed%2Fmain%2Frepo-count.json&style=for-the-badge&labelColor=0D1117"/>
+  </a>
+
+  <a href="mailto:muthairsyed98@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=FFFFFF"/>
+  </a>
+
+</p>
 
 ## 💫 About Me
 
-> 🛡️ **DevSecOps Engineer** focused on building secure, automated and practical solutions.
+> 🛡️ **DevSecOps Engineer** building secure systems, automating security workflows, and turning technical problems into practical solutions.
 
-I'm passionate about **Cybersecurity, DevSecOps, Cloud Security, AI-powered tools, Automation and Web Development**.
+**Security** · **Automation** · **Cloud** · **DevOps** · **Web**
 
-I enjoy taking repetitive or complicated technical problems and turning them into **simple, scalable and automated solutions.**
+### 🔐 What I Work With
 
-### 🔭 Currently Working On
+`Microsoft Defender` `Microsoft Sentinel` `Burp Suite` `Aqua Security` `Jenkins`
+`Python` `Azure` `CI/CD` `SAST` `SCA` `DAST` `Vulnerability Management`
 
-AI-powered tools, cybersecurity utilities, automation projects and modern web applications.
+### ⚡ My Approach
 
-### 👯 Looking To Collaborate On
+> **Build → Secure → Automate → Monitor → Improve**
 
-Open-source projects, DevSecOps, cybersecurity automation, AI tools and developer utilities.
+I like solving repetitive security problems with **automation, APIs and code** — while continuously learning and building new things.
 
-### 🤝 Looking For Help With
+### 🎯 Currently Exploring
 
-Scalable security automation, open-source development and advanced AI integrations.
-
-### 🌱 Currently Learning
-
-AI / LLM integrations, advanced DevSecOps, cloud security, automation and modern web technologies.
-
-### 💬 Ask Me About
-
-`DevSecOps` `Application Security` `Vulnerability Management`  
-`Microsoft Defender` `Microsoft Sentinel` `Python` `CI/CD` `Web Development`
-
-### ⚡ Fun Fact
-
-> **If something can be automated, I'll probably try to automate it.**
+`DevSecOps` `Cloud Security` `Security Automation` `Vulnerability Management` `Web Development`
 
 ---
 
@@ -74,26 +65,45 @@ AI / LLM integrations, advanced DevSecOps, cloud security, automation and modern
 
 <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Sentinel-00E5FF?style=for-the-badge&logo=microsoftazure&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aqua%20Security-1F9D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/SAST-9B5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SCA-FF4FD8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAST-7FFFD4?style=for-the-badge&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/DAST-7FFFD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD%20Security-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Security-7FFFD4?style=for-the-badge"/>
 
 </p>
 
 ### 🔐 Security Focus
 
-- Application Security
-- Vulnerability Assessment
-- Vulnerability Management
-- SAST / SCA / DAST
-- Secure SDLC
-- CI/CD Security
-- Cloud Security
-- Security Automation
-- OWASP Top 10
-- Security Monitoring
-- Microsoft Defender
-- Microsoft Sentinel
+`Application Security` · `Vulnerability Assessment` · `Vulnerability Management`
+`SAST` · `SCA` · `DAST` · `Secure SDLC` · `CI/CD Security`
+`Cloud Security` · `Security Monitoring` · `Security Automation`
+`OWASP Top 10` · `Microsoft Defender` · `Microsoft Sentinel`
+
+---
+
+## ⚙️ Security Automation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security%20Reporting-9B5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Automation-FF4FD8?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+DETECT+%E2%86%92+ANALYZE+%E2%86%92+AUTOMATE+%E2%86%92+REPORT;%3E+TURNING+REPETITIVE+SECURITY+TASKS+INTO+AUTOMATION;%3E+BUILDING+PRACTICAL+SECURITY+UTILITIES;%3E+SECURITY+%2B+AUTOMATION+%2B+DEVOPS;%3E+IF+IT+CAN+BE+AUTOMATED%2C+I%27LL+TRY+TO+AUTOMATE+IT"/>
+</p>
 
 ---
 
@@ -111,7 +121,7 @@ AI / LLM integrations, advanced DevSecOps, cloud security, automation and modern
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,gcp,github,gitlab,docker,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,github,gitlab,docker,linux,jenkins&theme=dark"/>
 
 </p>
 
@@ -127,32 +137,82 @@ AI / LLM integrations, advanced DevSecOps, cloud security, automation and modern
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-00E5FF?style=for-the-badge&logo=microsoftazure&logoColor=0D1117"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortify-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Veracode-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coverity-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aqua%20Security-1F9D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
 </p>
 
 ---
 
-### 🧹 AI RAM Booster
+## 🚀 Featured Projects
 
-A system optimization project focused on memory management, automation and system performance.
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevSecOps-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-9B5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-FF4FD8?style=for-the-badge"/>
+
+</p>
+
+### 🧠 AI RAM Booster
+
+A Windows system optimization project focused on memory management, system resource monitoring, performance optimization and automated cleanup workflows.
+
+`Python` `Windows` `System Optimization` `Automation`
+
+---
+
+### 🛡️ Microsoft Defender Security Automation
+
+Security automation utilities focused on collecting vulnerability information, analyzing CVEs, generating security reports and simplifying repetitive Microsoft Defender workflows.
+
+`Python` `Microsoft Defender` `REST API` `CVE` `Vulnerability Management`
+
+---
+
+### 🔎 Vulnerability Management Automation
+
+Automated security reporting and vulnerability analysis workflows designed to collect, process and organize vulnerability data into actionable reports.
+
+`Python` `Vulnerability Management` `Security APIs` `Excel` `Automation`
+
+---
+
+### ⚙️ DevSecOps Security Pipeline
+
+Security-focused CI/CD workflows integrating security testing, vulnerability detection and security checks into the development lifecycle.
+
+`Jenkins` `CI/CD` `SAST` `SCA` `DAST` `DevSecOps`
+
+---
 
 ### 🛒 ShopEase
 
-A web-based e-commerce project focused on product management, shopping functionality and user experience.
+A web-based e-commerce application focused on product management, shopping functionality, database integration and responsive user experience.
 
-### 🛡️ Cybersecurity Automation
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
-Security-focused utilities for vulnerability management, reporting, automation and monitoring.
+---
 
 ### 🌐 Web Applications
 
-Responsive websites, dashboards, utilities and full-stack applications built around practical use cases.
+Responsive websites, dashboards, utilities and full-stack applications built around practical real-world use cases.
+
+`PHP` `JavaScript` `MySQL` `HTML` `CSS` `REST APIs`
+
+---
+
+## 🧬 Engineering Mindset
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=BUILD+%E2%86%92+SECURE+%E2%86%92+AUTOMATE+%E2%86%92+MONITOR;SECURITY+IS+A+CONTINUOUS+PROCESS.;AUTOMATE+THE+REPETITIVE.;BUILD+PRACTICAL.+SECURE.+SCALABLE.;KEEP+LEARNING.+KEEP+BUILDING."/>
+
+</p>
 
 ---
 
@@ -223,8 +283,11 @@ Responsive websites, dashboards, utilities and full-stack applications built aro
 ### <span style="color:#7FFFD4">⚡</span> Build • <span style="color:#00E5FF">Secure</span> • <span style="color:#9B5CFF">Automate</span> • <span style="color:#FF4FD8">Repeat</span>
 
 </p>
+
 <!-- =============================== -->
+
 <!--        HACKER TECH FOOTER        -->
+
 <!-- =============================== -->
 
 <p align="center">
@@ -234,12 +297,25 @@ Responsive websites, dashboards, utilities and full-stack applications built aro
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+BUILD+%E2%86%92+SECURE+%E2%86%92+AUTOMATE+%E2%86%92+MONITOR;%3E+NO+SYSTEM+IS+PERFECT.;%3E+SECURITY+IS+A+CONTINUOUS+PROCESS.;%3E+KEEP+LEARNING.+KEEP+BUILDING.;%3E+CONNECTION+TERMINATED+%E2%9C%93"/>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:1B1033,25:111827,50:0B1929,75:06111F,100:020617"/>
 </p>
 
+<!-- =============================== -->
+
+<!--       PROFILE VIEW COUNTER      -->
+
+<!-- =============================== -->
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MuthairSyed&label=PROFILE%20VIEWS&color=28282B&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=MuthairSyed&label=PROFILE%20VIEWS&color=28282B&style=for-the-badge"/>
 
 </p>
+
+<!-- =============================== -->
+
+<!--          END OF SYSTEM           -->
+
+<!-- =============================== -->
