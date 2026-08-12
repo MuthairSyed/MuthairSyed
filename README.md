@@ -220,12 +220,6 @@ Responsive websites, dashboards, utilities and full-stack applications built aro
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MuthairSyed&label=PROFILE%20VIEWS&color=7FFFD4&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
 ### <span style="color:#7FFFD4">⚡</span> Build • <span style="color:#00E5FF">Secure</span> • <span style="color:#9B5CFF">Automate</span> • <span style="color:#FF4FD8">Repeat</span>
 
 </p>
@@ -238,9 +232,14 @@ Responsive websites, dashboards, utilities and full-stack applications built aro
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+BUILD+%E2%86%92+SECURE+%E2%86%92+AUTOMATE+%E2%86%92+MONITOR;%3E+NO+SYSTEM+IS+PERFECT.;%3E+SECURITY+IS+A+CONTINUOUS+PROCESS.;%3E+KEEP+LEARNING.+KEEP+BUILDING.;%3E+CONNECTION+TERMINATED+%E2%9C%93"/>
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=twinkling&color=0:1B1033,25:111827,50:0B1929,75:06111F,100:020617"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+BUILD+%E2%86%92+SECURE+%E2%86%92+AUTOMATE+%E2%86%92+MONITOR;%3E+NO+SYSTEM+IS+PERFECT.;%3E+SECURITY+IS+A+CONTINUOUS+PROCESS.;%3E+KEEP+LEARNING.+KEEP+BUILDING.;%3E+CONNECTION+TERMINATED+%E2%9C%93"/>
+
+<img src="https://komarev.com/ghpvc/?username=MuthairSyed&label=PROFILE%20VIEWS&color=7FFFD4&style=for-the-badge"/>
+
 </p>
