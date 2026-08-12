@@ -138,20 +138,6 @@ AI / LLM integrations, advanced DevSecOps, cloud security, automation and modern
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/MuthairSyed/AI-Ram-Booster">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuthairSyed&repo=AI-Ram-Booster&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/MuthairSyed/Shopease">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuthairSyed&repo=Shopease&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
 ### 🧹 AI RAM Booster
 
 A system optimization project focused on memory management, automation and system performance.
