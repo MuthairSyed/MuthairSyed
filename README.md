@@ -1,21 +1,209 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI-powered tools, automation projects, cybersecurity utilities, and web applications.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, DevSecOps, cybersecurity automation, AI tools, and developer utilities.<br><br>🤝 I’m looking for help with<br>Building scalable security automation, improving open-source projects, and exploring advanced AI integrations.<br><br>🌱 I’m currently learning<br>AI/LLM integrations, advanced DevSecOps, cloud security, automation, and modern web technologies.<br><br>💬 Ask me about<br>DevSecOps, Application Security, Vulnerability Management, Microsoft Defender, Microsoft Sentinel, Python, CI/CD, and web development.<br><br>⚡ Fun fact<br>I enjoy turning repetitive technical tasks into automated tools — and then finding another thing to automate.
+# 👋 Hi, I'm Muthair Syed
+
+### 🛡️ DevSecOps Engineer • Application Security • Automation • Developer
+
+> Building secure systems, automating repetitive work, and turning ideas into working tools.
+
+I'm passionate about **Cybersecurity, DevSecOps, Cloud Security, Automation, AI-powered tools, and Web Development**.
+
+I enjoy taking complex technical problems and turning them into simple, practical, and automated solutions.
+
+---
+
+## 💫 About Me
+
+🔭 **I'm currently working on**  
+AI-powered tools, automation projects, cybersecurity utilities, and web applications.
+
+👯 **I'm looking to collaborate on**  
+Open-source projects, DevSecOps, cybersecurity automation, AI tools, and developer utilities.
+
+🤝 **I'm looking for help with**  
+Building scalable security automation, improving open-source projects, and exploring advanced AI integrations.
+
+🌱 **I'm currently learning**  
+AI/LLM integrations, advanced DevSecOps, cloud security, automation, and modern web technologies.
+
+💬 **Ask me about**  
+DevSecOps, Application Security, Vulnerability Management, Microsoft Defender, Microsoft Sentinel, Python, CI/CD, and Web Development.
+
+⚡ **Fun fact**  
+If something can be automated, I'll probably try to automate it.
+
+---
+
+## 🛡️ Security & DevSecOps
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Application%20Security-111827?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</p>
+
+### 🔐 Security Areas
+
+- Application Security
+- Vulnerability Management
+- Vulnerability Assessment
+- SAST / SCA / DAST
+- Secure SDLC
+- CI/CD Security
+- Cloud Security
+- Security Automation
+- OWASP Top 10
+- Security Monitoring
+- Microsoft Defender
+- Microsoft Sentinel
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</p>
+
+### 🔧 Security Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortify-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Veracode-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coverity-000000?style=for-the-badge"/>
+
+</p>
+
+### 🌐 Web & Database
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧹 AI RAM Booster
+
+A system optimization project focused on memory management, automation, and improving overall system performance.
+
+### 🛒 ShopEase
+
+A web-based e-commerce project focused on product management, shopping functionality, and a modern user experience.
+
+### 🛡️ Cybersecurity Automation
+
+Security-focused tools for vulnerability management, automation, reporting, monitoring, and security workflows.
+
+### 🌐 Web Applications
+
+Responsive websites, dashboards, utilities, and full-stack applications built around practical use cases.
+
+> 🚧 More projects are continuously being developed and added.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=MuthairSyed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=MuthairSyed&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuthairSyed&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
+
+</p>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/paradox.maddy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_maddi314__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muthairsyed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthairsyed98@gmail.com) 
+<p align="center">
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Muthair Syed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Muthair Syed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muthair Syed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github.com/MuthairSyed/MuthairSyed/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muthair Syed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 🌐 Connect With Me
 
-![snake gif](https://github.com/MuthairSyed/MuthairSyed/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+
+<a href="https://github.com/MuthairSyed">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muthairsyed/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_maddi314__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/paradox.maddy">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:muthairsyed98@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Build. Secure. Automate. Repeat.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MuthairSyed&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
