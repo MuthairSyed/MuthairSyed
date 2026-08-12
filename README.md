@@ -240,6 +240,6 @@ Responsive websites, dashboards, utilities and full-stack applications built aro
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MuthairSyed&label=PROFILE%20VIEWS&color=7FFFD4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MuthairSyed&label=PROFILE%20VIEWS&color=28282B&style=for-the-badge"/>
 
 </p>
